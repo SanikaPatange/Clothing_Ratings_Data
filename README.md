@@ -13,6 +13,7 @@
    - Scikit-learn – Text vectorization, model training, and evaluation.
 
 🧹 Data Preprocessing : 
+
 The dataset was cleaned and preprocessed by handling missing values, removing unnecessary characters, and transforming review text into a machine-readable format. Text preprocessing techniques such as vectorization were applied to prepare the data for modeling.
 Exploratory Data Analysis (EDA) was performed using Matplotlib to visualize sentiment distribution, review lengths, and rating patterns. These visualizations helped in understanding customer behavior and overall trends in the clothing reviews.
 
