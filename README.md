@@ -11,7 +11,6 @@
     - Matplotlib – Data visualization and exploratory analysis.
     - Scikit-learn – Text vectorization, model training, and evaluation.
 
-    This project focuses on analyzing customer review text from a clothing dataset to understand customer sentiment and predict whether a review is positive or negative. The main objective is to extract meaningful insights from textual data and evaluate the performance of a sentiment prediction model.
 🧹 Data Preprocessing
     - The dataset was cleaned and preprocessed by handling missing values, removing unnecessary characters, and transforming review text into a machine-readable format. 
       Text preprocessing techniques such as vectorization were applied to prepare the data for modeling.
