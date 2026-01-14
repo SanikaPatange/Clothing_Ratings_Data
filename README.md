@@ -1,17 +1,19 @@
 # 👗 Clothing_Ratings_Data
 
 📌 Project Overview : 
+   
    This project analyzes customer reviews from a clothing dataset to predict sentiment based on review text. The goal is to understand customer opinions and evaluate the effectiveness of a sentiment 
    classification model using standard machine learning metrics.
 
 
-🔧 Tools : 
+🔧 Tools :
     - Python.
     - Pandas & NumPy – Data cleaning and manipulation.
     - Matplotlib – Data visualization and exploratory analysis.
     - Scikit-learn – Text vectorization, model training, and evaluation.
 
 🧹 Data Preprocessing
+
     - The dataset was cleaned and preprocessed by handling missing values, removing unnecessary characters, and transforming review text into a machine-readable format. 
       Text preprocessing techniques such as vectorization were applied to prepare the data for modeling.
       Exploratory Data Analysis (EDA) was performed using Matplotlib to visualize sentiment distribution, review lengths, and rating patterns. These visualizations helped in understanding customer behavior 
