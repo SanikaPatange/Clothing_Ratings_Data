@@ -19,8 +19,8 @@
       and overall trends in the clothing reviews.
 
 🔮 Sentiment Prediction
-    - The trained machine learning model predicts the sentiment of customer reviews based on the review text provided in the dataset.
-    - Review text is transformed into numerical features using text vectorization techniques before making predictions.
-    - The model classifies each review into sentiment categories such as Positive or Negative.
-    - Predictions are generated for unseen test data to evaluate how well the model generalizes to new customer reviews.
-    - The predicted sentiment results help in understanding customer satisfaction and identifying common feedback trends in clothing products.
+   - The trained machine learning model predicts the sentiment of customer reviews based on the review text provided in the dataset.
+   - Review text is transformed into numerical features using text vectorization techniques before making predictions.
+   - The model classifies each review into sentiment categories such as Positive or Negative.
+   - Predictions are generated for unseen test data to evaluate how well the model generalizes to new customer reviews.
+   - The predicted sentiment results help in understanding customer satisfaction and identifying common feedback trends in clothing products.
